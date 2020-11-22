@@ -32,9 +32,9 @@ namespace GRS_Task_04 {
         }
 
         public virtual void ShowStatus() {
-            Console.WriteLine("Жизни:\t{0} HP", HP);
-            Console.WriteLine("Манна:\t{0} MP", Manna);
-            Console.WriteLine("Сила: \t{0} PP", Power);
+            Console.WriteLine("Жизни:\t{0}\tHP", HP);
+            Console.WriteLine("Мана:\t{0}\tMP", Manna);
+            Console.WriteLine("Сила: \t{0}\tPP", Power);
             if (ProtectionCount != 0) {
                 Console.WriteLine("Защита:\t{0}", ProtectionCount);
             }
