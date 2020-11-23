@@ -1,0 +1,13 @@
+D:\College\TrainingPractice_01\GRS_Task_05\bin\Debug\netcoreapp3.1\GRS_Task_05.exe
+D:\College\TrainingPractice_01\GRS_Task_05\bin\Debug\netcoreapp3.1\GRS_Task_05.deps.json
+D:\College\TrainingPractice_01\GRS_Task_05\bin\Debug\netcoreapp3.1\GRS_Task_05.runtimeconfig.json
+D:\College\TrainingPractice_01\GRS_Task_05\bin\Debug\netcoreapp3.1\GRS_Task_05.runtimeconfig.dev.json
+D:\College\TrainingPractice_01\GRS_Task_05\bin\Debug\netcoreapp3.1\GRS_Task_05.dll
+D:\College\TrainingPractice_01\GRS_Task_05\bin\Debug\netcoreapp3.1\GRS_Task_05.pdb
+D:\College\TrainingPractice_01\GRS_Task_05\obj\Debug\netcoreapp3.1\GRS_Task_05.csprojAssemblyReference.cache
+D:\College\TrainingPractice_01\GRS_Task_05\obj\Debug\netcoreapp3.1\GRS_Task_05.AssemblyInfoInputs.cache
+D:\College\TrainingPractice_01\GRS_Task_05\obj\Debug\netcoreapp3.1\GRS_Task_05.AssemblyInfo.cs
+D:\College\TrainingPractice_01\GRS_Task_05\obj\Debug\netcoreapp3.1\GRS_Task_05.csproj.CoreCompileInputs.cache
+D:\College\TrainingPractice_01\GRS_Task_05\obj\Debug\netcoreapp3.1\GRS_Task_05.dll
+D:\College\TrainingPractice_01\GRS_Task_05\obj\Debug\netcoreapp3.1\GRS_Task_05.pdb
+D:\College\TrainingPractice_01\GRS_Task_05\obj\Debug\netcoreapp3.1\GRS_Task_05.genruntimeconfig.cache
