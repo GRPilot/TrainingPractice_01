@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GRS_Task_03", "GRS_Task_03\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GRS_Task_04", "GRS_Task_04\GRS_Task_04.csproj", "{024DB486-FB56-44D3-A73A-98877DF31AF2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GRS_Task_05", "GRS_Task_05\GRS_Task_05.csproj", "{23E7CF5C-CF79-48E9-914A-04D105DF5F70}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GRS_Task_05", "GRS_Task_05\GRS_Task_05.csproj", "{23E7CF5C-CF79-48E9-914A-04D105DF5F70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GRS_Task_06", "GRS_Task_06\GRS_Task_06.csproj", "{5730BD56-4303-4937-BF22-089AE9A23C3B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{23E7CF5C-CF79-48E9-914A-04D105DF5F70}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{23E7CF5C-CF79-48E9-914A-04D105DF5F70}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{23E7CF5C-CF79-48E9-914A-04D105DF5F70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5730BD56-4303-4937-BF22-089AE9A23C3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5730BD56-4303-4937-BF22-089AE9A23C3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5730BD56-4303-4937-BF22-089AE9A23C3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5730BD56-4303-4937-BF22-089AE9A23C3B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
