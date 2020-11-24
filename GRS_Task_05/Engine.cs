@@ -22,22 +22,16 @@ namespace GRS_Task_05 {
                 Show();
 
                 player.Move(ref map);
-                map.Update(ref player);
-
-                display.Clear();
+                display.Update(ref player);
             }
             Show();
 
-            if(player.IsAlive()) {
-                // lose
-            } else {
-                // win
-            }
+            display.ShowGameStatus(ref player);
         }
 
         private void Show() { 
-            display.Show(ref map);
-            display.Show(ref player);
+            display.ShowMap();
+            display.ShowPlayerStatus();
         }
 
         private void EnterMapSize() {
@@ -55,7 +49,6 @@ namespace GRS_Task_05 {
         }
 
         private void InitializeDependencies() {
-            display = new Display();
             rnd = new Random(Constaints.Seed());
             player = new Player();
             MazeMapBuilder builder = new MazeMapBuilder();
@@ -63,6 +56,7 @@ namespace GRS_Task_05 {
             map.SetRandomExit(builder.LastMazeArray(), width, height);
             player.SetRandomPosition(builder.LastMazeArray(), width, height);
             map.Update(ref player);
+            display = new Display(ref map, ref player);
         }
 
         // ========= other ========= //
